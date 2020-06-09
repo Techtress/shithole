@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/shithole/static/css/main.5f361e03.chunk.css",
+    "main.js": "/shithole/static/js/main.48ef3c3c.chunk.js",
+    "main.js.map": "/shithole/static/js/main.48ef3c3c.chunk.js.map",
+    "runtime-main.js": "/shithole/static/js/runtime-main.48bad719.js",
+    "runtime-main.js.map": "/shithole/static/js/runtime-main.48bad719.js.map",
+    "static/js/2.9e565700.chunk.js": "/shithole/static/js/2.9e565700.chunk.js",
+    "static/js/2.9e565700.chunk.js.map": "/shithole/static/js/2.9e565700.chunk.js.map",
+    "index.html": "/shithole/index.html",
+    "precache-manifest.5fcae17e60ef6fab68b42edecc4a78d9.js": "/shithole/precache-manifest.5fcae17e60ef6fab68b42edecc4a78d9.js",
+    "service-worker.js": "/shithole/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/shithole/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9e565700.chunk.js.LICENSE.txt": "/shithole/static/js/2.9e565700.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/shithole/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48bad719.js",
+    "static/js/2.9e565700.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.48ef3c3c.chunk.js"
+  ]
+}
